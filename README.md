@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunnop Koetyaem</h1>
 <h3 align="center">A Research & development Intern Engineer at Prime Road Power</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunnop&label=Profile%20views&color=0e75b6&style=flat" alt="kunnop" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kunnop&label=Profile%20views&color=0e75b6&style=flat" alt="kunnop" /> </p>
 
 - 🔭 I’m currently working on **Thermal image analysis & PV plants Monitoring**
 
