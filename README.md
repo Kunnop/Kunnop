@@ -18,4 +18,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunnop&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunnop&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunnop&&langs_count=3&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
