@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunnop Koetyaem</h1>
-<h3 align="center">A Research & development Intern Engineer at Prime Road Power</h3>
+<h3 align="center">A Research & development Engineer at Prime Road Power</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunnop&label=Profile%20views&color=0e75b6&style=flat" alt="kunnop" /> </p>
 
