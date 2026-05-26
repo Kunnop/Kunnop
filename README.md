@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunnop&label=Profile%20views&color=0e75b6&style=flat" alt="kunnop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunnop" alt="kunnop" /></a> </p>
-
 - 🔭 I'm currently working on **Thermal image analysis & PV plants Monitoring**
 
 - 📫 How to reach me **kunnop.koetyaem@gmail.com**
